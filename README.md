@@ -10,3 +10,5 @@ A brief description of what I do in the project:
 • Optimized model performance by using GridSearchCV to test 40 different parameter combinations to find parameters with best results
 
 The first part of the project was me exploring and cleaning the data, so if you would like to skip to the results of the model, scroll to the bottom of the Ames Housing Project file.
+
+Thank you for taking a look at my work, and I hope you enjoy this project!
